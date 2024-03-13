@@ -1089,7 +1089,7 @@ y .contact .php-email-form input,
   border: 1px solid #0084ff;
 }
 
-.contact .php-email-form   button[type="submit"] {
+.contact .php-email-form button[type="submit"] {
   background: #0084ff;
   border: 0;
   padding: 10px 35px;
